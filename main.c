@@ -2,10 +2,11 @@
 
 int main (int argc, char **argv)/*função principal*/
 {
-	argc=argc;
-	argv=argv;
+	argc=argc;/*corrigir warnings de argumentos nao ultilzados */
+	argv=argv;/*corrigir warnings de argumentos nao ultilzados */
 
-	nome_console();
+	nome_console();/*chama procedimendo para mudar o nome do console*/
+	maximiza_console();
 
 
 	return(0);
