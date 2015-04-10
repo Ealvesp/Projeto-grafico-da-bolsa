@@ -6,7 +6,7 @@ void nome_console()/*nessecita de ajustes tratamento do A acentuado exemplo: á 
 	system ("pause");/*pausa a execução do programa */
 }
 
-void maximiza_console()/* imcompleta  */
+void maximiza_console()/* incompleta  */
 {
 	COORD posi, maxd;/*variaveis do tipo COORD posição largura e altura*/
 	
