@@ -14,3 +14,12 @@ http://blog.dmatoso.com/2011/09/git-no-windows-github/
 site github:
 
 http://github.com 
+
+
+principais comandos github:
+
+git add . /*adiciona os arquivos*/
+
+git commit -m "mensagem obrigatoria" /*cria uma copia pra o respositorio local*/
+
+git push origin master /*envia sua versão do projeto para o site */
