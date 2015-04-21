@@ -10,7 +10,7 @@
 
 void nome_console();/*função para mudar o nome do console usado a biblioteca console*/
 void maximiza_console();/*função para maximizar a janela do console usado a biblioteca console*/
-
+void velas();
 
 
 #endif /*_GRAFICOS_*/
