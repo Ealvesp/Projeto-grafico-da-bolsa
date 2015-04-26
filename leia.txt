@@ -22,4 +22,6 @@ git add . /*adiciona os arquivos*/
 
 git commit -m "mensagem obrigatoria" /*cria uma copia pra o respositorio local*/
 
-git push origin master /*envia sua vers„o do projeto para o site */
+git push origin master /*envia sua vers√£o do projeto para o site */
+
+click em fork
