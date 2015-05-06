@@ -52,9 +52,6 @@ void icone()
     int i, j;
 
     COLORREF cor;
-    
-    while(1)
-    {
         for (i = 0; i < 16; i++)
         {
             for (j = 0; j < 16; j++)
@@ -74,5 +71,5 @@ void icone()
 
 	     }
     	}
-     }
+     
 }
