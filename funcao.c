@@ -73,3 +73,14 @@ void icone()
     	}
      
 }
+void texto ()
+{
+	/*Muda posição do cursor de texto. função da windwos.h*/
+    SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), (COORD){3,0});
+
+    /*Imprime na tela*/
+    printf("PETR4 15m");
+
+    getchar();	
+
+}
