@@ -18,6 +18,7 @@ int main (int argc, char *argv[])/*função principal*/
 		maximiza_console();/*chamada do procedimento para maximizar janela do console*/
 		velas();/*chama função para criar as velas*/
 		icone();/*chama procedimento para criar o icone*/
+		texto();
 
 		if (tecla.teclado.codigo_tecla == ESC)/*verifica ponto de parada do programa*/
 			{
